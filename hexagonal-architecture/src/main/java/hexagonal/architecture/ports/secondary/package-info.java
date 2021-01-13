@@ -1,0 +1,1 @@
+package hexagonal.architecture.ports.secondary;
